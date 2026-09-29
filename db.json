@@ -1,0 +1,251 @@
+{
+  "users": [
+    {
+      "email": "intern@example.com",
+      "password": "$2a$10$Hfx9YPCxhP.D5ix2LrczweoLQXNV1LuXH6o5LtfjBkio4rfWQrsQ2",
+      "id": 1
+    }
+  ],
+  "userProfiles": [
+    {
+      "id": "usr_001",
+      "firstName": "Aarav",
+      "lastName": "Sharma",
+      "email": "aarav.sharma@example.com",
+      "phone": "+91 98765 43210",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "gender": "male",
+      "dateOfBirth": "1998-04-15",
+      "role": "admin",
+      "department": "Engineering",
+      "jobTitle": "Engineering Manager",
+      "status": "active",
+      "location": {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "address": "120, C.G. Road",
+      "joiningDate": "2022-06-10",
+      "salary": 95000,
+      "createdAt": "2022-06-10T09:30:00Z",
+      "updatedAt": "2026-09-20T10:15:00Z"
+    },
+    {
+      "id": "usr_002",
+      "firstName": "Diya",
+      "lastName": "Patel",
+      "email": "diya.patel@example.com",
+      "phone": "+91 98250 12345",
+      "avatar": "https://i.pravatar.cc/150?img=47",
+      "gender": "female",
+      "dateOfBirth": "2000-08-21",
+      "role": "employee",
+      "department": "Design",
+      "jobTitle": "UI/UX Designer",
+      "status": "active",
+      "location": {
+        "city": "Surat",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "address": "45, Ring Road",
+      "joiningDate": "2023-02-15",
+      "salary": 65000,
+      "createdAt": "2023-02-15T08:30:00Z",
+      "updatedAt": "2026-09-18T14:20:00Z"
+    },
+    {
+      "id": "usr_003",
+      "firstName": "Rohan",
+      "lastName": "Mehta",
+      "email": "rohan.mehta@example.com",
+      "phone": "+91 99090 45678",
+      "avatar": "https://i.pravatar.cc/150?img=33",
+      "gender": "male",
+      "dateOfBirth": "1999-11-03",
+      "role": "employee",
+      "department": "Engineering",
+      "jobTitle": "Frontend Developer",
+      "status": "active",
+      "location": {
+        "city": "Vadodara",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "address": "18, Alkapuri",
+      "joiningDate": "2024-01-08",
+      "salary": 58000,
+      "createdAt": "2024-01-08T10:00:00Z",
+      "updatedAt": "2026-09-19T11:45:00Z"
+    },
+    {
+      "id": "usr_004",
+      "firstName": "Ananya",
+      "lastName": "Joshi",
+      "email": "ananya.joshi@example.com",
+      "phone": "+91 98123 67890",
+      "avatar": "https://i.pravatar.cc/150?img=44",
+      "gender": "female",
+      "dateOfBirth": "2001-03-17",
+      "role": "intern",
+      "department": "Engineering",
+      "jobTitle": "Software Engineering Intern",
+      "status": "active",
+      "location": {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "address": "72, Satellite Road",
+      "joiningDate": "2026-06-01",
+      "salary": 25000,
+      "createdAt": "2026-06-01T09:00:00Z",
+      "updatedAt": "2026-09-15T09:30:00Z"
+    },
+    {
+      "id": "usr_005",
+      "firstName": "Kabir",
+      "lastName": "Kapoor",
+      "email": "kabir.kapoor@example.com",
+      "phone": "+91 98700 11223",
+      "avatar": "https://i.pravatar.cc/150?img=68",
+      "gender": "male",
+      "dateOfBirth": "1997-07-29",
+      "role": "employee",
+      "department": "Marketing",
+      "jobTitle": "Marketing Specialist",
+      "status": "inactive",
+      "location": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "address": "22, Andheri West",
+      "joiningDate": "2021-09-13",
+      "salary": 72000,
+      "createdAt": "2021-09-13T11:00:00Z",
+      "updatedAt": "2026-08-30T16:10:00Z"
+    },
+    {
+      "id": "usr_006",
+      "firstName": "Meera",
+      "lastName": "Shah",
+      "email": "meera.shah@example.com",
+      "phone": "+91 98980 33445",
+      "avatar": "https://i.pravatar.cc/150?img=49",
+      "gender": "female",
+      "dateOfBirth": "1996-12-12",
+      "role": "manager",
+      "department": "HR",
+      "jobTitle": "HR Manager",
+      "status": "active",
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "address": "91, Baner Road",
+      "joiningDate": "2020-04-20",
+      "salary": 88000,
+      "createdAt": "2020-04-20T09:15:00Z",
+      "updatedAt": "2026-09-21T12:00:00Z"
+    },
+    {
+      "id": "usr_007",
+      "firstName": "Arjun",
+      "lastName": "Verma",
+      "email": "arjun.verma@example.com",
+      "phone": "+91 97654 88990",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "gender": "male",
+      "dateOfBirth": "1995-05-06",
+      "role": "employee",
+      "department": "Sales",
+      "jobTitle": "Sales Executive",
+      "status": "active",
+      "location": {
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India"
+      },
+      "address": "14, Saket",
+      "joiningDate": "2022-11-07",
+      "salary": 61000,
+      "createdAt": "2022-11-07T10:20:00Z",
+      "updatedAt": "2026-09-12T15:30:00Z"
+    },
+    {
+      "id": "usr_008",
+      "firstName": "Ishita",
+      "lastName": "Rao",
+      "email": "ishita.rao@example.com",
+      "phone": "+91 99887 22110",
+      "avatar": "https://i.pravatar.cc/150?img=32",
+      "gender": "female",
+      "dateOfBirth": "1999-09-25",
+      "role": "employee",
+      "department": "Finance",
+      "jobTitle": "Financial Analyst",
+      "status": "active",
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "address": "55, Indiranagar",
+      "joiningDate": "2023-07-03",
+      "salary": 70000,
+      "createdAt": "2023-07-03T08:45:00Z",
+      "updatedAt": "2026-09-10T10:00:00Z"
+    },
+    {
+      "id": "usr_009",
+      "firstName": "Vivaan",
+      "lastName": "Malhotra",
+      "email": "vivaan.malhotra@example.com",
+      "phone": "+91 98111 55667",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "gender": "male",
+      "dateOfBirth": "2000-01-18",
+      "role": "intern",
+      "department": "Marketing",
+      "jobTitle": "Marketing Intern",
+      "status": "active",
+      "location": {
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India"
+      },
+      "address": "31, Vaishali Nagar",
+      "joiningDate": "2026-07-01",
+      "salary": 22000,
+      "createdAt": "2026-07-01T09:30:00Z",
+      "updatedAt": "2026-09-05T13:15:00Z"
+    },
+    {
+      "id": "usr_010",
+      "firstName": "Sara",
+      "lastName": "Khan",
+      "email": "sara.khan@example.com",
+      "phone": "+91 98765 77889",
+      "avatar": "https://i.pravatar.cc/150?img=45",
+      "gender": "female",
+      "dateOfBirth": "1998-10-30",
+      "role": "employee",
+      "department": "Engineering",
+      "jobTitle": "Backend Developer",
+      "status": "inactive",
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+      },
+      "address": "88, Banjara Hills",
+      "joiningDate": "2022-03-14",
+      "salary": 82000,
+      "createdAt": "2022-03-14T10:00:00Z",
+      "updatedAt": "2026-08-25T17:20:00Z"
+    }
+  ]
+}
