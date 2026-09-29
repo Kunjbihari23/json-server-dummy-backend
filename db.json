@@ -1,11 +1,5 @@
 {
-  "users": [
-    {
-      "email": "intern@example.com",
-      "password": "$2a$10$Hfx9YPCxhP.D5ix2LrczweoLQXNV1LuXH6o5LtfjBkio4rfWQrsQ2",
-      "id": 1
-    }
-  ],
+  "users": [],
   "userProfiles": [
     {
       "id": "usr_001",
